@@ -1,11 +1,12 @@
-Script: 		Ajax Availability Calendar
-Script Web: 	www.ajaxavailabilitycalendar.com
-Author: 		Chris Bolson
-Autor Web: 		www.cbolson.com
+# Ajax Availability Calendar
+# www.ajaxavailabilitycalendar.com
+# Version: 		Version 3.04.03
+# Date Release:	2017-11-29
 
-Version: 		Version 3.04.03
-Date Release:	2017-11-29
-File: 			Readme
+# Author:	Chris Bolson
+# Autor Web:	www.cbolson.com
+
+
 
 Instructions:
 1. Unzip the file (done if you are reading this)
