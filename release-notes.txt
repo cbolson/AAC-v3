@@ -1,3 +1,10 @@
+Version 3.04.05
+	released 2018-11-19
+	- remove php warning message in admin login panel
+	- remove unused copy of login panel	
+Version 3.04.04
+	released 2017-12-17
+	- remove surplus language files included by mistake
 Version 3.04.03
 	released 2017-11-29
 	- fix mysqli error when adding new languages
