@@ -1,7 +1,7 @@
 # Ajax Availability Calendar
 # www.ajaxavailabilitycalendar.com
-# Version: 		Version 3.04.03
-# Date Release:	2017-11-29
+# Version: 		Version 3.04.05
+# Date Release:	2018-11-19
 
 # Author:	Chris Bolson
 # Autor Web:	www.cbolson.com
